@@ -1,2 +1,6 @@
 I will eat pizza today
 i bought pizza from domino's  
+
+Welcome to GIT
+
+Pizza added to GIT
